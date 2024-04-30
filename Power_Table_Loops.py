@@ -1,4 +1,4 @@
-print("Learn your squares and cubes!\n")
+print("Learn your squares and cubes!")
 while True:
     try:
         integer = int(input("Enter an integer: "))
